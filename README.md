@@ -1,8 +1,5 @@
-# ee-summercamp-2019
-## Task for Extension Engine Summer Camp 2019 
-- [x] \CSS
-- [x] \HTML
-- [x] \Javascript
+# Portfolio
+Made with HTML,CSS, JS(jQuery)
 
-[Link](http://pzi1.fesb.hr/~milic/CV-ee-summercamp/milic.me/index.html).
+[Link](http://pzi1.fesb.hr/~milic/CV/milic.me/).
 
